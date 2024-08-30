@@ -1,0 +1,14 @@
+Microsoft.ZuneMusic
+Microsoft.XboxSpeechToTextOverlay
+Microsoft.Xbox.TCUI
+Microsoft.XboxApp
+Microsoft.XboxGameOverlay
+Microsoft.XboxGamingOverlay
+Microsoft.XboxIdentityProvider
+Microsoft.WindowsFeedbackHub
+microsoft.windowscommunicationsapps
+Microsoft.SkypeApp
+Microsoft.People
+Microsoft.Office.OneNote
+Microsoft.MicrosoftOfficeHub
+Microsoft.YourPhone
