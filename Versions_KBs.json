@@ -7,23 +7,18 @@
                 {
                     "Name": "22H2",
                     "BuildNumber": "10.0.19045",
-                    "KB": "KB5041580"
+                    "KB": "KB5043064"
                 }
             ]
         },
         {
             "Name": "Win11",
             "VersionNumber": "10.0.2",
-            "Builds": [
-                {
-                    "Name": "22H2",
-                    "BuildNumber": "10.0.22621",
-                    "KB": "KB5041587"
-                },
+            "Builds": [            
                 {
                     "Name": "23H2",
                     "BuildNumber": "10.0.22631",
-                    "KB": "KB5041587"
+                    "KB": "KB5043076"
                 }
             ]
         }
