@@ -1,8 +1,8 @@
 ﻿{
-    "Versions": [
+    "OSVersions": [
         {
             "Name": "Win10",
-            "Version": "10.0.1",
+            "VersionNumber": "10.0.1",
             "Builds": [
                 {
                     "Name": "22H2",
@@ -13,7 +13,7 @@
         },
         {
             "Name": "Win11",
-            "Version": "10.0.2",
+            "VersionNumber": "10.0.2",
             "Builds": [
                 {
                     "Name": "22H2",
