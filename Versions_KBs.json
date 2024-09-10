@@ -1,0 +1,31 @@
+﻿{
+    "Versions": [
+        {
+            "Name": "Win10",
+            "Version": "10.0.1",
+            "Builds": [
+                {
+                    "Name": "22H2",
+                    "BuildNumber": "10.19045",
+                    "KB": "KB5041580"
+                }
+            ]
+        },
+        {
+            "Name": "Win11",
+            "Version": "10.0.2",
+            "Builds": [
+                {
+                    "Name": "22H2",
+                    "BuildNumber": "10.22621",
+                    "KB": "KB5041587"
+                },
+                {
+                    "Name": "23H2",
+                    "BuildNumber": "10.22631",
+                    "KB": "KB5041587"
+                }
+            ]
+        }
+    ]
+}
