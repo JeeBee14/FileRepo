@@ -1,6 +1,5 @@
 Microsoft.BingWeather
 Microsoft.GetHelp
-Microsoft.Getstarted
 Microsoft.MicrosoftOfficeHub
 Microsoft.People
 microsoft.windowscommunicationsapps
