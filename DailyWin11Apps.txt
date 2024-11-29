@@ -1,0 +1,2 @@
+Microsoft.OutlookForWindows
+Microsoft.Windows.DevHome
